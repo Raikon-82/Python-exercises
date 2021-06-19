@@ -1,0 +1,31 @@
+a=str(input("Welcome to the final battle in Heroes of Might and Magic"))
+b=str(input("Champion number one"))
+char1=input("Kyrre")
+c=str(input("Champion number two"))
+char2=input("Solmyr")
+y=int(input("Enter number y:\n"))
+if y==100:
+    print("Kyrre has 100HP")
+z=int(input("Enter number z:\n"))
+if z==100:
+    print("Solmyr has 100HP")
+m1=int(input("Enter number m1:\n"))
+if m1==200:
+    print("Kyrre has 200MP")
+m2=int(input("Enter number m2:\n"))
+if m2==200:
+    print("Solmyr has 200MP")
+d=str(input("Both Champions has 2 spells"))
+spell1=input("Lightening Bolt")
+spell2=input("Fireball")
+e=int(input("Enter number e:\n"))
+
+
+
+
+    
+        
+
+
+
+
